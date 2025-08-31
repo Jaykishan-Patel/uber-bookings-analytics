@@ -1,11 +1,7 @@
+  Here is the image of dashboard
 <img width="900" height="502" alt="Image" src="https://github.com/user-attachments/assets/bdf5b7bb-5041-472c-82ef-b689c99f45d1" />
 <img width="893" height="501" alt="Image" src="https://github.com/user-attachments/assets/0f902d95-4e83-49f9-a56d-1b92af1ea23b" />
 <img width="880" height="503" alt="Image" src="https://github.com/user-attachments/assets/0b6a22fd-0f45-4ace-9691-21bd18782d27" />
 <img width="895" height="505" alt="Image" src="https://github.com/user-attachments/assets/c2e230a3-1010-4450-94d4-d8144d68e2d5" />
 <img width="895" height="510" alt="Image" src="https://github.com/user-attachments/assets/b5644097-841b-471c-a95d-b7b42dd5daa7" />
-https://drive.google.com/file/d/1YiFFZQD4u4rNpFuwYd1Zvjm0sN0cuyfX/view?usp=drive_link
-<video src="[https://github.com/user/repo/raw/main/assets/demo.mp4](https://drive.google.com/file/d/1YiFFZQD4u4rNpFuwYd1Zvjm0sN0cuyfX/view?usp=drive_link)" controls width="750"></video>
-<video controls width="700">
-  <source src="[https://github.com/USER/REPO/blob/BRANCH/assets/demo.mp4?raw=1](https://github.com/Jaykishan-Patel/uber-bookings-analytics/blob/main/DashBoard_Images_And_Video/Uber_DashBoard_Video.mp4)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
