@@ -92,4 +92,4 @@ By meeting these objectives, the analysis empowers Uber to enhance pricing strat
   </tr>
 </table>
 
-
+👉 [View DAX Formulas Used](https://github.com/Jaykishan-Patel/uber-bookings-analytics/blob/main/DAX_Measures.md)
