@@ -22,22 +22,22 @@ By combining KPIs, dynamic filters, and drill-through capabilities, this project
 ## 🎯 Business Objectives
    The primary objective of this project is to leverage Power BI for analyzing Uber trip data and generate actionable insights that support strategic decision-making. Specifically, the dashboards aim to:
 
-* #### 📊 Measure overall performance –
+* #### Measure overall performance –
     Track total bookings, revenue, trip distance, and trip duration.
 
-* #### ⏰ Understand demand trends – 
+* #### Understand demand trends – 
     Identify peak and off-peak booking times across days and hours.
 
-* #### 📍 Analyze location patterns – 
+* #### Analyze location patterns – 
     Detect the most frequent pickup and drop-off points to optimize driver availability.
 
-* #### 🚘 Evaluate vehicle performance – 
+* #### Evaluate vehicle performance – 
     Compare bookings, revenue, and trip efficiency across different vehicle types.
 
-* #### 💳 Study customer preferences – 
+* #### Study customer preferences – 
     Assess payment methods and trip types (day/night) to understand rider behavior.
 
-* #### 🛠 Enable deep-dive analysis – 
+* #### Enable deep-dive analysis – 
     Provide trip-level drill-through details for operational and business insights.
 
 By meeting these objectives, the analysis empowers Uber to enhance pricing strategies, demand forecasting, operational efficiency, and customer satisfaction.
@@ -51,15 +51,15 @@ By meeting these objectives, the analysis empowers Uber to enhance pricing strat
 *  Export Options (CSV / Excel via Power BI service)
   
 ## 📈 Expected Outcomes  
-* #### 📊 Detect booking & revenue trends –  
+* #### Detect booking & revenue trends –  
   Analyze patterns across time periods and locations to understand overall business performance.  
-* #### 👥 Understand customer behavior –  
+* #### Understand customer behavior –  
   Study payment preferences, vehicle choices, and trip distances for better rider insights.  
-* #### ⏰ Identify peak demand periods –  
+* #### Identify peak demand periods –  
   Optimize driver allocation and pricing strategies by detecting peak vs. off-peak times.  
-* #### 🚘 Improve operational efficiency –  
+* #### Improve operational efficiency –  
   Leverage location and vehicle-level analysis to streamline operations.  
-* #### 🎯 Provide actionable insights –  
+* #### Provide actionable insights –  
   Support strategic decision-making with clear, data-driven findings. 
   
 ## 📊 Dashboards  
