@@ -6,6 +6,6 @@
 https://drive.google.com/file/d/1YiFFZQD4u4rNpFuwYd1Zvjm0sN0cuyfX/view?usp=drive_link
 <video src="[https://github.com/user/repo/raw/main/assets/demo.mp4](https://drive.google.com/file/d/1YiFFZQD4u4rNpFuwYd1Zvjm0sN0cuyfX/view?usp=drive_link)" controls width="750"></video>
 <video controls width="700">
-  <source src="https://github.com/USER/REPO/blob/BRANCH/assets/demo.mp4?raw=1" type="video/mp4">
+  <source src="[https://github.com/USER/REPO/blob/BRANCH/assets/demo.mp4?raw=1](https://github.com/Jaykishan-Patel/uber-bookings-analytics/blob/main/DashBoard_Images_And_Video/Uber_DashBoard_Video.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
