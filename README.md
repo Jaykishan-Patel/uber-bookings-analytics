@@ -1,142 +1,60 @@
-🚖 Uber Trip Analysis – Power BI Dashboard
+# 🚖 Uber Trip Analysis – Power BI Dashboard
 
-A data-driven business intelligence project built in Power BI to analyze Uber trip data.
-The dashboards uncover booking trends, revenue insights, customer behavior, and operational efficiency, enabling smarter decision-making for ride-hailing services.
+This project explores Uber trip data to analyze bookings, revenue, trip efficiency, and demand patterns.
+It includes interactive dashboards for overview, time-based trends, and detailed trip insights—helping stakeholders make data-driven decisions.
 
-📌 Project Overview
+## 📌 Project Overview
+The Uber Trip Analysis Dashboard is a data analytics project developed in Power BI to transform raw Uber trip records into meaningful business insights.
+The goal is to help stakeholders understand ride demand, revenue performance, and operational efficiency through interactive visualizations.
 
-This project transforms raw Uber trip data into interactive dashboards that provide clear insights into:
+The project delivers three dashboards:
 
-📊 Bookings & Revenue Performance
+* #### Overview Analysis – 
+    Summarizes key KPIs such as Total Bookings, Revenue, Trip Distance, and Average Trip Time while providing insights by vehicle type, payment method, and popular locations.
 
-⏰ Time-based Demand Trends
+* #### Time Analysis – 
+    Examines booking patterns across different time intervals, days of the week, and peak demand hours using line charts, area charts, and heatmaps.
 
-📍 Location Insights (Pickup & Drop-off Hotspots)
+* #### Details – 
+    Provides a drill-through enabled data grid for exploring granular trip-level details, supporting deeper analysis and decision-making.
 
-🚘 Vehicle Type Preferences & Performance
+By combining KPIs, dynamic filters, and drill-through capabilities, this project enables Uber to optimize driver allocation, pricing models, and customer satisfaction strategies.
+## 🎯 Business Objectives
+   The primary objective of this project is to leverage Power BI for analyzing Uber trip data and generate actionable insights that support strategic decision-making. Specifically, the dashboards aim to:
 
-📑 Detailed Trip Records with Drill-through Analysis
+* #### 📊 Measure overall performance –
+    Track total bookings, revenue, trip distance, and trip duration.
 
-The dashboards are designed with dynamic visuals, slicers, bookmarks, and KPIs to empower stakeholders with actionable intelligence.
+* #### ⏰ Understand demand trends – 
+    Identify peak and off-peak booking times across days and hours.
 
-🎯 Business Objectives
+* #### 📍 Analyze location patterns – 
+    Detect the most frequent pickup and drop-off points to optimize driver availability.
 
-The analysis addresses the following key questions:
+* #### 🚘 Evaluate vehicle performance – 
+    Compare bookings, revenue, and trip efficiency across different vehicle types.
 
-How many trips were booked, and what was the total revenue generated?
+* #### 💳 Study customer preferences – 
+    Assess payment methods and trip types (day/night) to understand rider behavior.
 
-What are the average fare, trip distance, and trip duration?
+* #### 🛠 Enable deep-dive analysis – 
+    Provide trip-level drill-through details for operational and business insights.
 
-Which locations are the most popular for pickups and drop-offs?
+By meeting these objectives, the analysis empowers Uber to enhance pricing strategies, demand forecasting, operational efficiency, and customer satisfaction.
 
-Which vehicle types contribute the most to revenue and efficiency?
-
-When are the peak hours and days for ride demand?
-
-What was the longest trip recorded, and what does it reveal about customer demand?
-
-📊 Dashboards
-1️⃣ Overview Analysis
-
-Total Bookings, Revenue, and Average Fare
-
-Trip Efficiency (Distance & Duration)
-
-Revenue by Payment Type (Cash, Card, Wallet, etc.)
-
-Trip Distribution (Day vs. Night)
-
-Vehicle Type Analysis (UberX, Comfort, Black, XL, Green)
-
-Most Frequent Pickup & Drop-off Points
-
-Longest Trip Insights
-
-2️⃣ Time Analysis
-
-Ride demand across 10-minute intervals
-
-Weekly booking patterns (Weekday vs Weekend)
-
-Heatmap to highlight peak booking hours
-
-Dynamic Measure Selector (Bookings / Revenue / Distance)
-
-3️⃣ Details Tab
-
-Grid View with granular trip records
-
-Columns: Trip ID, Date, Vehicle, Payment Type, Fare, Locations, Distance, Revenue
-
-Drill-through functionality for deep-dive exploration
-
-Toggle between filtered records and full dataset
-
-🔑 Key KPIs
-
-Total Bookings
-
-Total Booking Value (Revenue)
-
-Average Booking Value (Fare per Trip)
-
-Total Trip Distance
-
-Average Trip Distance
-
-Average Trip Time
-
-⚙️ Power BI Features Implemented
-
-✔ Dynamic Measure Selector using Disconnected Tables
-✔ Dynamic Titles & Tooltips for user-friendly experience
-✔ Slicers & Filters (Date, City, Vehicle, Payment Type)
-✔ Conditional Formatting for Vehicle & Location insights
-✔ Drill-through & Bookmarks for detailed exploration
-✔ Export Options (CSV / Excel via Power BI service)
-
-📈 Expected Outcomes
-
-Detect booking & revenue trends across time and location
-
-Understand customer behavior by payment type, vehicle, and trip distance
-
-Identify peak demand periods to optimize driver allocation & pricing
-
-Improve operational efficiency with location and vehicle analysis
-
-Deliver actionable insights for business strategy
-
-🛠 Tools & Technologies
-
-Power BI Desktop – Data modeling & visualization
-
-DAX (Data Analysis Expressions) – Custom measures & KPIs
-
-Uber Dataset (Sample) – Contains trips, fares, locations, and vehicle details
-
-🚀 How to Use
-
-Clone the repository:
-
-git clone https://github.com/your-username/uber-trip-analysis-powerbi.git
-
-
-Open the .pbix file in Power BI Desktop.
-
-Load the dataset provided (or connect to live data).
-
-Explore the interactive dashboards using slicers and filters.
-
-📂 Project Structure
-Uber-Trip-Analysis/
-│-- Uber_Trip_Analysis.pbix   # Power BI project file
-│-- Dataset/                  # Uber dataset (CSV/Excel)
-│-- Screenshots/              # Dashboard images
-│-- README.md                 # Project documentation
-
-👨‍💻 Author
-[![Watch Demo](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
-
-Designed & Developed by [Your Name]
-📧 [Your Email] | 🌐 [LinkedIn/GitHub Portfolio]
+## ⚙️ Power BI Features Implemented
+* Dynamic Measure Selector using Disconnected Tables
+* Dynamic Titles & Tooltips for user-friendly experience
+* Slicers & Filters (Date, City, Vehicle, Payment Type)
+* Conditional Formatting for Vehicle & Location insights
+* Drill-through & Bookmarks for detailed exploration
+*  Export Options (CSV / Excel via Power BI service)
+  
+## 📈 Expected Outcomes
+* Detect booking & revenue trends across time and location
+* Understand customer behavior by payment type, vehicle, and trip distance
+* Identify peak demand periods to optimize driver allocation & pricing
+* Improve operational efficiency with location and vehicle analysis
+*  Provide actionable insights to support data-driven business strategy and decision-making.
+  
+## 🔗 Links
