@@ -64,3 +64,6 @@ By meeting these objectives, the analysis empowers Uber to enhance pricing strat
 <img width="895" height="510" alt="Image" src="https://github.com/user-attachments/assets/e4e09187-dd57-4566-aac0-a30acdc372d1" />
 <img width="880" height="503" alt="Image" src="https://github.com/user-attachments/assets/4d1bf3ed-c56e-4dc9-8cb6-89b98138c047" />
 ![Image](https://github.com/user-attachments/assets/b7801013-f578-4d83-beae-6083482b0b88)
+### 🎥 Dashboard Demo (GIF Preview)
+
+![Dashboard Demo](https://github.com/user-attachments/assets/b7801013-f578-4d83-beae-6083482b0b88)
