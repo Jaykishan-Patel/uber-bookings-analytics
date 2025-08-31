@@ -50,15 +50,20 @@ By meeting these objectives, the analysis empowers Uber to enhance pricing strat
 * Drill-through & Bookmarks for detailed exploration
 *  Export Options (CSV / Excel via Power BI service)
   
-## 📈 Expected Outcomes
-* Detect booking & revenue trends across time and location
-* Understand customer behavior by payment type, vehicle, and trip distance
-* Identify peak demand periods to optimize driver allocation & pricing
-* Improve operational efficiency with location and vehicle analysis
-*  Provide actionable insights to support data-driven business strategy and decision-making.
+## 📈 Expected Outcomes  
+* #### 📊 Detect booking & revenue trends –  
+  Analyze patterns across time periods and locations to understand overall business performance.  
+* #### 👥 Understand customer behavior –  
+  Study payment preferences, vehicle choices, and trip distances for better rider insights.  
+* #### ⏰ Identify peak demand periods –  
+  Optimize driver allocation and pricing strategies by detecting peak vs. off-peak times.  
+* #### 🚘 Improve operational efficiency –  
+  Leverage location and vehicle-level analysis to streamline operations.  
+* #### 🎯 Provide actionable insights –  
+  Support strategic decision-making with clear, data-driven findings. 
   
 ## 📊 Dashboards  
-[view Dashboard in details-->](https://github.com/Jaykishan-Patel/uber-bookings-analytics/blob/main/DashBoard_Images_And_Video/DashBoard.md)
+👉 [View Dashboards in Detail](https://github.com/Jaykishan-Patel/uber-bookings-analytics/blob/main/DashBoard_Images_And_Video/DashBoard.md)
 
 <table>
   <tr>
