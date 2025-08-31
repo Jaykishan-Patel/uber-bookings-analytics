@@ -69,16 +69,16 @@ By meeting these objectives, the analysis empowers Uber to enhance pricing strat
 <td>
       <table>
         <tr>
-          <td><img src="https://github.com/user-attachments/assets/cee6a2a8-0039-4912-ab90-bc33432a5683" alt="Overview Dashboard" width="250"/></td>
-          <td><img src="https://github.com/user-attachments/assets/368278a1-6c84-48ab-ac0e-2340de372743" alt="Time Analysis Dashboard" width="250"/></td>
+          <td><img src="https://github.com/user-attachments/assets/cee6a2a8-0039-4912-ab90-bc33432a5683" alt="Overview Dashboard" width="150"/></td>
+          <td><img src="https://github.com/user-attachments/assets/368278a1-6c84-48ab-ac0e-2340de372743" alt="Time Analysis Dashboard" width="150"/></td>
         </tr>
         <tr>
-          <td><img src="https://github.com/user-attachments/assets/671ebf26-74ca-437e-9341-21b682fe7ca1" alt="Details Dashboard" width="250"/></td>
-          <td><img src="https://github.com/user-attachments/assets/e4e09187-dd57-4566-aac0-a30acdc372d1" alt="Location Analysis" width="250"/></td>
+          <td><img src="https://github.com/user-attachments/assets/671ebf26-74ca-437e-9341-21b682fe7ca1" alt="Details Dashboard" width="150"/></td>
+          <td><img src="https://github.com/user-attachments/assets/e4e09187-dd57-4566-aac0-a30acdc372d1" alt="Location Analysis" width="150"/></td>
         </tr>
         <tr>
           <td colspan="2" align="center">
-            <img src="https://github.com/user-attachments/assets/4d1bf3ed-c56e-4dc9-8cb6-89b98138c047" alt="Vehicle Type Analysis" width="250"/>
+            <img src="https://github.com/user-attachments/assets/4d1bf3ed-c56e-4dc9-8cb6-89b98138c047" alt="Vehicle Type Analysis" width="150"/>
           </td>
         </tr>
       </table>
