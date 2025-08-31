@@ -57,4 +57,10 @@ By meeting these objectives, the analysis empowers Uber to enhance pricing strat
 * Improve operational efficiency with location and vehicle analysis
 *  Provide actionable insights to support data-driven business strategy and decision-making.
   
-## 🔗 Links
+## 📊 Dashboards
+<img width="900" height="502" alt="Image" src="https://github.com/user-attachments/assets/cee6a2a8-0039-4912-ab90-bc33432a5683" />
+<img width="893" height="501" alt="Image" src="https://github.com/user-attachments/assets/368278a1-6c84-48ab-ac0e-2340de372743" />
+<img width="895" height="505" alt="Image" src="https://github.com/user-attachments/assets/671ebf26-74ca-437e-9341-21b682fe7ca1" />
+<img width="895" height="510" alt="Image" src="https://github.com/user-attachments/assets/e4e09187-dd57-4566-aac0-a30acdc372d1" />
+<img width="880" height="503" alt="Image" src="https://github.com/user-attachments/assets/4d1bf3ed-c56e-4dc9-8cb6-89b98138c047" />
+![Image](https://github.com/user-attachments/assets/b7801013-f578-4d83-beae-6083482b0b88)
