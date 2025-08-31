@@ -58,6 +58,7 @@ By meeting these objectives, the analysis empowers Uber to enhance pricing strat
 *  Provide actionable insights to support data-driven business strategy and decision-making.
   
 ## 📊 Dashboards  
+[view Dashboard in details-->](https://github.com/Jaykishan-Patel/uber-bookings-analytics/blob/main/DashBoard_Images_And_Video/DashBoard.md)
 
 <table>
   <tr>
